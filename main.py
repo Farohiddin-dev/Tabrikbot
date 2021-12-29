@@ -3,7 +3,7 @@ import datetime
 from aiogram import Bot, Dispatcher, executor, filters, types
 from PIL import Image, ImageDraw, ImageFont
 
-API_TOKEN = 'bot token here'
+API_TOKEN = '1993748786:AAE2xZJQBjVIumiEZhub6zf6nSyKTfRv9RI'
 
 bot = Bot(token=API_TOKEN,  parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
